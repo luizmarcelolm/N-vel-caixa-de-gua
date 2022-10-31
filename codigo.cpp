@@ -6,6 +6,7 @@ char auth[] = "sua autenticação blynk";
 char ssid[] = "nome da rede";
 char pass[] = "senha da rede";
 
+//definindo quais pinos serão utilizados
 const int nivel = 16;
 const int sensor4 = 4;
 const int sensor3 = 13;
@@ -16,6 +17,7 @@ const int sensor0 = 5;
 BlynkTimer timer;
 void checkPhysicalButton();
 
+//definindo status dos pinos
 int nivel_State = LOW;
 int sensor4_State = HIGH;
 int sensor3_State = HIGH;
@@ -82,7 +84,6 @@ void checkPhysicalButton()
 
 void setup()
 {
-  // Debug console
   Serial.begin(9600);
 
   Blynk.begin(auth, ssid, pass);
@@ -94,7 +95,6 @@ void setup()
    pinMode(sensor0, INPUT_PULLUP);
   digitalWrite(nivel, nivel_State);
 
-  // Setup a function to be called every 100 ms
   timer.setInterval(100L, checkPhysicalButton);
 }
 
