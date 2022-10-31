@@ -38,6 +38,11 @@ Protoboard 170 Pontos Branca
 
 ![image](https://user-images.githubusercontent.com/109484017/199123572-ceb89d79-9ba2-496e-9d17-2cd0ac9a22bf.png)
 
+Mini Fonte Hi-link Hlk-pm01 100~240vac P/ 5v Dc 600ma 3w
+
+![image](https://user-images.githubusercontent.com/109484017/199123725-963a26b7-3d49-4c32-a6a6-aa7a35292be6.png)
+
+
 
 
 
