@@ -29,13 +29,16 @@ Configuração do sensor para o nível de 100%
 ![image](https://user-images.githubusercontent.com/109484017/199122835-ff824202-e621-4fea-904d-1d89f23874af.png)
 
 # Materiais utilizado para o projeto.
-Mini Protoboard 170 Pontos Com Trava Preto
-
-![image](https://user-images.githubusercontent.com/109484017/199123057-4329ce6d-bb90-4079-9682-ef40ab7f22b7.png)
 
 Wemos D1 Mini Nodemcu Esp8266 4mb
 
-![image](https://user-images.githubusercontent.com/109484017/199123203-92ad5095-8a70-468d-88a3-a35176202abe.png)
+![image](https://user-images.githubusercontent.com/109484017/199123394-364c4304-a7bc-4a00-84a0-08b0c6237e59.png)
+
+Protoboard 170 Pontos Branca
+
+![image](https://user-images.githubusercontent.com/109484017/199123572-ceb89d79-9ba2-496e-9d17-2cd0ac9a22bf.png)
+
+
 
 
 
