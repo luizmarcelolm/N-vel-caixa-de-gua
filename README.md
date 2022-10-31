@@ -46,6 +46,10 @@ Mini Fonte Hi-link Hlk-pm01 100~240vac P/ 5v Dc 600ma 3w
 
 ![image](https://user-images.githubusercontent.com/109484017/199124862-0046aaf0-a3b7-4fcf-85b7-e6c46af44a79.png)
 
+Placa com fiação ligada, utilizei jumpers e soldei no cabo de rede.
+
+![image](https://user-images.githubusercontent.com/109484017/199125600-3ab3ac10-d41d-4802-90e3-9d14e0825814.png)
+
 
 
 
